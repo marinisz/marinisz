@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with Java
-
+<br/>
 ## Social Media:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
