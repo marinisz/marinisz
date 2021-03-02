@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with Java
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinisz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinisz&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ## Social Media:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
