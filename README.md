@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 🤔 I’m looking for help with Java
 
+# Public Information:
+- Name: Vinícius Marini
+- Age: 22
+- University: PUCMINAS (Software engineering bachelor degree)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinisz&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ## Social Media:
