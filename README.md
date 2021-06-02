@@ -1,7 +1,7 @@
 # Hi there - Welcome 🦁
 
 - 🌱 I’m currently learning everything 🤣
-- 🤔 I’m looking for help with Java
+- 🤔 Looking for help with Java
 
 # Public Information:
 - Name: Vinícius Marini
