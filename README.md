@@ -1,7 +1,7 @@
 # Hi there - Welcome 🦁
 
 - 🌱 I’m currently learning Angular
-- 🤔 Looking for help with Java
+- 🤔 Looking for help with Vue
 
 # Public Information:
 - Name: Vinícius Marini
