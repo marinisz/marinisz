@@ -1,7 +1,7 @@
 # Hi there - Welcome 🦁
 
-- 🌱 I’m currently learning Angular
-- 🤔 Looking for help with Vue
+- 🌱 I’m currently learning Rabbitmq
+- 🤔 Looking for help with Java
 
 # Public Information:
 - Name: Vinícius Marini
