@@ -5,7 +5,7 @@
 
 # Public Information:
 - Name: Vinícius Marini
-- Age: 22
+- Age: 23
 - University: PUCMINAS (Software engineering bachelor degree)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinisz&show_icons=true&locale=en&layout=compact&theme=dark)
