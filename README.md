@@ -1,8 +1,5 @@
 # Hi there - Welcome 🦁
 
-- 🌱 I’m currently learning Rabbitmq
-- 🤔 Looking for help with Java
-
 # Public Information:
 - Name: Vinícius Marini
 - Age: 23
