@@ -1,6 +1,5 @@
 # Hi there - Welcome 🦁
 
-# Public Information:
 - Name: Vinícius Marini
 - Age: 23
 - University: PUCMINAS (Software engineering bachelor degree)
