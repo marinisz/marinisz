@@ -1,7 +1,7 @@
 <h1 align="left">Hi there - Welcome 🦁</h1>
 
 ###
-<p align="left">- Name: Vinícius Marini<br>- Age: 23<br>- University: PUCMINAS (Software engineering bachelor degree)</p>
+<p align="left">- Name: Vinícius Marini<br>- Age: 25<br>- University: PUCMINAS (Software engineering bachelor degree)</p>
 
 ###
 <div align="left">
